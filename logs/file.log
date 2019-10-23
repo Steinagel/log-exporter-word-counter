@@ -1,0 +1,16 @@
+{"levelname": "ERROR", "name": "lowermodule", "file_processed": null, "count": null, "message": "[Errno 2] No such file or directory: 'upload/to_force_err'", "asctime": "2019-10-23 18:01:09,022"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words3.txt", "count": "387", "message": "this file has 387 words", "asctime": "2019-10-23 18:01:09,592"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words1.txt", "count": "77", "message": "this file has 77 words", "asctime": "2019-10-23 18:01:09,831"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words1.txt", "count": "77", "message": "this file has 77 words", "asctime": "2019-10-23 18:01:10,300"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words0.txt", "count": "1", "message": "this file has 1 words", "asctime": "2019-10-23 18:01:11,032"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words3.txt", "count": "387", "message": "this file has 387 words", "asctime": "2019-10-23 18:01:11,543"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words1.txt", "count": "77", "message": "this file has 77 words", "asctime": "2019-10-23 18:01:11,713"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words0.txt", "count": "1", "message": "this file has 1 words", "asctime": "2019-10-23 18:01:12,331"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words1.txt", "count": "77", "message": "this file has 77 words", "asctime": "2019-10-23 18:01:12,354"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words3.txt", "count": "387", "message": "this file has 387 words", "asctime": "2019-10-23 18:01:12,835"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words1.txt", "count": "77", "message": "this file has 77 words", "asctime": "2019-10-23 18:01:13,026"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words3.txt", "count": "387", "message": "this file has 387 words", "asctime": "2019-10-23 18:01:13,837"}
+{"levelname": "ERROR", "name": "lowermodule", "file_processed": null, "count": null, "message": "[Errno 2] No such file or directory: 'upload/to_force_err'", "asctime": "2019-10-23 18:01:14,195"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words4.txt", "count": "695", "message": "this file has 695 words", "asctime": "2019-10-23 18:01:14,293"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words2.txt", "count": "218", "message": "this file has 218 words", "asctime": "2019-10-23 18:01:14,577"}
+{"levelname": "DEBUG", "name": "lowermodule", "file_processed": "upload/words3.txt", "count": "387", "message": "this file has 387 words", "asctime": "2019-10-23 18:01:14,739"}
